@@ -1,0 +1,72 @@
+com.example.recipemanager.app-jetified-hilt-navigation-1.2.0-0 C:\Users\Marko\.gradle\caches\transforms-4\00d02c3b637a28f416332174c7fc6831\transformed\jetified-hilt-navigation-1.2.0\res
+com.example.recipemanager.app-drawerlayout-1.1.1-1 C:\Users\Marko\.gradle\caches\transforms-4\02f76928e015156ce9f46572aa9cddfc\transformed\drawerlayout-1.1.1\res
+com.example.recipemanager.app-jetified-runtime-release-2 C:\Users\Marko\.gradle\caches\transforms-4\05c3200803ac38129d35cee6d8f4b54c\transformed\jetified-runtime-release\res
+com.example.recipemanager.app-jetified-coil-base-2.7.0-3 C:\Users\Marko\.gradle\caches\transforms-4\0773550f73142f6153e6a702f1c8e592\transformed\jetified-coil-base-2.7.0\res
+com.example.recipemanager.app-jetified-material-icons-core-release-4 C:\Users\Marko\.gradle\caches\transforms-4\082149bb14eefa82042d70fee262ee52\transformed\jetified-material-icons-core-release\res
+com.example.recipemanager.app-jetified-viewpager2-1.0.0-5 C:\Users\Marko\.gradle\caches\transforms-4\0fc9954bfb3a00c7eece91503052db77\transformed\jetified-viewpager2-1.0.0\res
+com.example.recipemanager.app-coordinatorlayout-1.1.0-6 C:\Users\Marko\.gradle\caches\transforms-4\16c337f12167b87e9db82d507e79a352\transformed\coordinatorlayout-1.1.0\res
+com.example.recipemanager.app-jetified-material3-release-7 C:\Users\Marko\.gradle\caches\transforms-4\19f7bdad029ddec6eee4119872222da9\transformed\jetified-material3-release\res
+com.example.recipemanager.app-navigation-common-2.8.0-8 C:\Users\Marko\.gradle\caches\transforms-4\1c0d775fab30a5363c097af88334b3dd\transformed\navigation-common-2.8.0\res
+com.example.recipemanager.app-jetified-lifecycle-viewmodel-savedstate-2.8.3-9 C:\Users\Marko\.gradle\caches\transforms-4\1c978be5c0488da2523998b16630e0e6\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\res
+com.example.recipemanager.app-jetified-appcompat-resources-1.6.1-10 C:\Users\Marko\.gradle\caches\transforms-4\1e2334fd8b4b9995ff27523e66de71ed\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.recipemanager.app-jetified-animation-core-release-11 C:\Users\Marko\.gradle\caches\transforms-4\203a3414c4d172d24be2f4287d48e6dc\transformed\jetified-animation-core-release\res
+com.example.recipemanager.app-jetified-animation-release-12 C:\Users\Marko\.gradle\caches\transforms-4\2a604e7283003feac2b954f77b4a0fb3\transformed\jetified-animation-release\res
+com.example.recipemanager.app-jetified-foundation-layout-release-13 C:\Users\Marko\.gradle\caches\transforms-4\2d25ced4cf5d5577d6f8350a51dd0a03\transformed\jetified-foundation-layout-release\res
+com.example.recipemanager.app-jetified-graphics-path-1.0.1-14 C:\Users\Marko\.gradle\caches\transforms-4\32417737853b97a50539cf0b2481f6ae\transformed\jetified-graphics-path-1.0.1\res
+com.example.recipemanager.app-navigation-common-ktx-2.8.0-15 C:\Users\Marko\.gradle\caches\transforms-4\335dfdd903b1a95c105c5c876c657a36\transformed\navigation-common-ktx-2.8.0\res
+com.example.recipemanager.app-fragment-1.5.1-16 C:\Users\Marko\.gradle\caches\transforms-4\359654e2293f01222001d205a2659617\transformed\fragment-1.5.1\res
+com.example.recipemanager.app-jetified-ui-tooling-release-17 C:\Users\Marko\.gradle\caches\transforms-4\37a89f869bade6fcc3e9941a69431f8a\transformed\jetified-ui-tooling-release\res
+com.example.recipemanager.app-jetified-lifecycle-viewmodel-ktx-2.8.3-18 C:\Users\Marko\.gradle\caches\transforms-4\38064a835691393f785640fc52c24dd5\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\res
+com.example.recipemanager.app-jetified-lifecycle-viewmodel-compose-release-19 C:\Users\Marko\.gradle\caches\transforms-4\398a205074a45ee6602b5175988fc0b6\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.example.recipemanager.app-transition-1.5.0-20 C:\Users\Marko\.gradle\caches\transforms-4\39e7312e6883b6f58705294790464242\transformed\transition-1.5.0\res
+com.example.recipemanager.app-jetified-activity-ktx-1.9.0-21 C:\Users\Marko\.gradle\caches\transforms-4\3ce4218f95ab635c1af44c1479c577dc\transformed\jetified-activity-ktx-1.9.0\res
+com.example.recipemanager.app-jetified-ui-geometry-release-22 C:\Users\Marko\.gradle\caches\transforms-4\3f8b6ed46e94701c15c1f02a368e8c4a\transformed\jetified-ui-geometry-release\res
+com.example.recipemanager.app-jetified-ui-unit-release-23 C:\Users\Marko\.gradle\caches\transforms-4\41c3c2de8f2d333a3c27e3bb711db253\transformed\jetified-ui-unit-release\res
+com.example.recipemanager.app-jetified-foundation-release-24 C:\Users\Marko\.gradle\caches\transforms-4\42b15d9f85055c0f2b928f005d4b37cb\transformed\jetified-foundation-release\res
+com.example.recipemanager.app-jetified-emoji2-views-helper-1.3.0-25 C:\Users\Marko\.gradle\caches\transforms-4\49d6a9d6e1300fce038e47aa692c439e\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.recipemanager.app-jetified-lifecycle-livedata-core-ktx-2.8.3-26 C:\Users\Marko\.gradle\caches\transforms-4\5589c56ea175c7df92e33ac6b3f12741\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\res
+com.example.recipemanager.app-jetified-ui-release-27 C:\Users\Marko\.gradle\caches\transforms-4\59118479ce8812444268609d493a337b\transformed\jetified-ui-release\res
+com.example.recipemanager.app-lifecycle-livedata-2.8.3-28 C:\Users\Marko\.gradle\caches\transforms-4\5f5e866b7dfd13aa88b3e500f0c60ada\transformed\lifecycle-livedata-2.8.3\res
+com.example.recipemanager.app-jetified-ui-util-release-29 C:\Users\Marko\.gradle\caches\transforms-4\60fcc7fe7be133bf8f6fbfde8b38b331\transformed\jetified-ui-util-release\res
+com.example.recipemanager.app-jetified-emoji2-1.3.0-30 C:\Users\Marko\.gradle\caches\transforms-4\6626ea4cd2e0fb9588a8497dd2cb547b\transformed\jetified-emoji2-1.3.0\res
+com.example.recipemanager.app-core-runtime-2.2.0-31 C:\Users\Marko\.gradle\caches\transforms-4\6ad2eda8c8259031aa50f29cdfc2dbcd\transformed\core-runtime-2.2.0\res
+com.example.recipemanager.app-jetified-ui-text-release-32 C:\Users\Marko\.gradle\caches\transforms-4\6d26492e092e71fd41e2572e79f177f3\transformed\jetified-ui-text-release\res
+com.example.recipemanager.app-jetified-ui-graphics-release-33 C:\Users\Marko\.gradle\caches\transforms-4\6ebba09a4e7c37ee4654602324f032c4\transformed\jetified-ui-graphics-release\res
+com.example.recipemanager.app-constraintlayout-2.0.1-34 C:\Users\Marko\.gradle\caches\transforms-4\74cf3b334109d473b7fbc04ff5e8d18b\transformed\constraintlayout-2.0.1\res
+com.example.recipemanager.app-jetified-hilt-navigation-compose-1.2.0-35 C:\Users\Marko\.gradle\caches\transforms-4\7606dd20bcf121eff17f8aee0f3c2995\transformed\jetified-hilt-navigation-compose-1.2.0\res
+com.example.recipemanager.app-jetified-lifecycle-viewmodel-release-36 C:\Users\Marko\.gradle\caches\transforms-4\77ee7ef758f1fbbd7f7a1b1a6ddeae5d\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.recipemanager.app-jetified-activity-1.9.0-37 C:\Users\Marko\.gradle\caches\transforms-4\79b8a92a3e4a04522ca539e2bca86568\transformed\jetified-activity-1.9.0\res
+com.example.recipemanager.app-jetified-lifecycle-process-2.8.3-38 C:\Users\Marko\.gradle\caches\transforms-4\8437543834142674a6113fb0095fd779\transformed\jetified-lifecycle-process-2.8.3\res
+com.example.recipemanager.app-lifecycle-livedata-core-2.8.3-39 C:\Users\Marko\.gradle\caches\transforms-4\85205e2826b20a21b40ce39b1137d266\transformed\lifecycle-livedata-core-2.8.3\res
+com.example.recipemanager.app-jetified-navigation-compose-2.8.0-40 C:\Users\Marko\.gradle\caches\transforms-4\8559cffc00c6d1e20d82f63554bf358d\transformed\jetified-navigation-compose-2.8.0\res
+com.example.recipemanager.app-recyclerview-1.1.0-41 C:\Users\Marko\.gradle\caches\transforms-4\85a1a01b98b0ec7c2a5f361c0bfc5cdc\transformed\recyclerview-1.1.0\res
+com.example.recipemanager.app-jetified-savedstate-ktx-1.2.1-42 C:\Users\Marko\.gradle\caches\transforms-4\8eca39097cf5a0487f926336610d19b7\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.recipemanager.app-jetified-material-ripple-release-43 C:\Users\Marko\.gradle\caches\transforms-4\9540e8e73680b056c4e83b461d820e69\transformed\jetified-material-ripple-release\res
+com.example.recipemanager.app-jetified-profileinstaller-1.3.1-44 C:\Users\Marko\.gradle\caches\transforms-4\9613dda144b85d70fd3f69a0cca76946\transformed\jetified-profileinstaller-1.3.1\res
+com.example.recipemanager.app-cardview-1.0.0-45 C:\Users\Marko\.gradle\caches\transforms-4\973130b0bb6fcbe4ce685e09db6e3c92\transformed\cardview-1.0.0\res
+com.example.recipemanager.app-jetified-ui-test-manifest-1.7.0-46 C:\Users\Marko\.gradle\caches\transforms-4\9c249db76cb0baf51b472fc9e0187f90\transformed\jetified-ui-test-manifest-1.7.0\res
+com.example.recipemanager.app-jetified-material-release-47 C:\Users\Marko\.gradle\caches\transforms-4\a1f78647d58ec18e9946a62f0a465b12\transformed\jetified-material-release\res
+com.example.recipemanager.app-jetified-ui-tooling-preview-release-48 C:\Users\Marko\.gradle\caches\transforms-4\a7c666397513add7e00b0e8a8b00395f\transformed\jetified-ui-tooling-preview-release\res
+com.example.recipemanager.app-jetified-savedstate-1.2.1-49 C:\Users\Marko\.gradle\caches\transforms-4\a91e23c53c816c881dd9623f1cdb653f\transformed\jetified-savedstate-1.2.1\res
+com.example.recipemanager.app-jetified-runtime-saveable-release-50 C:\Users\Marko\.gradle\caches\transforms-4\b046f0220e1b3686234d5e3a743eb35d\transformed\jetified-runtime-saveable-release\res
+com.example.recipemanager.app-navigation-runtime-2.8.0-51 C:\Users\Marko\.gradle\caches\transforms-4\b8449ccce0116725c497a186b7de1d27\transformed\navigation-runtime-2.8.0\res
+com.example.recipemanager.app-core-1.13.1-52 C:\Users\Marko\.gradle\caches\transforms-4\c539f8c34fe4f9163624ce6f11ca57a9\transformed\core-1.13.1\res
+com.example.recipemanager.app-jetified-customview-poolingcontainer-1.0.0-53 C:\Users\Marko\.gradle\caches\transforms-4\ca4bb0e5373e719e526bbb744498c180\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.recipemanager.app-jetified-lifecycle-runtime-compose-release-54 C:\Users\Marko\.gradle\caches\transforms-4\cc58004962558ad649419ec7dda92f7e\transformed\jetified-lifecycle-runtime-compose-release\res
+com.example.recipemanager.app-jetified-lifecycle-runtime-release-55 C:\Users\Marko\.gradle\caches\transforms-4\cdd646178c5730d9eb3f566836605a67\transformed\jetified-lifecycle-runtime-release\res
+com.example.recipemanager.app-jetified-annotation-experimental-1.4.1-56 C:\Users\Marko\.gradle\caches\transforms-4\ce21440a5f09fb236e1ef24ead489e28\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.recipemanager.app-material-1.12.0-57 C:\Users\Marko\.gradle\caches\transforms-4\d3623c2818c117b9b74e5ec78e7c66e7\transformed\material-1.12.0\res
+com.example.recipemanager.app-jetified-core-ktx-1.13.1-58 C:\Users\Marko\.gradle\caches\transforms-4\d93a8a5ea24e042af4cb5b78f9ad23f9\transformed\jetified-core-ktx-1.13.1\res
+com.example.recipemanager.app-jetified-activity-compose-1.9.0-59 C:\Users\Marko\.gradle\caches\transforms-4\e1e94055d3245d447f04753b6033d8e2\transformed\jetified-activity-compose-1.9.0\res
+com.example.recipemanager.app-jetified-lifecycle-runtime-ktx-release-60 C:\Users\Marko\.gradle\caches\transforms-4\e439cb25bdfe5119145de072f5cc3519\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.recipemanager.app-jetified-ui-tooling-data-release-61 C:\Users\Marko\.gradle\caches\transforms-4\e46248fd5d1fda467a0856aeb59681a6\transformed\jetified-ui-tooling-data-release\res
+com.example.recipemanager.app-appcompat-1.6.1-62 C:\Users\Marko\.gradle\caches\transforms-4\e59fac028cd5094129d88173103c7ceb\transformed\appcompat-1.6.1\res
+com.example.recipemanager.app-navigation-runtime-ktx-2.8.0-63 C:\Users\Marko\.gradle\caches\transforms-4\ef3b65dbb24fc731a7b05ea5f42003c1\transformed\navigation-runtime-ktx-2.8.0\res
+com.example.recipemanager.app-jetified-startup-runtime-1.1.1-64 C:\Users\Marko\.gradle\caches\transforms-4\f3aa74bd1262d68a7b4f175bf1d62cb8\transformed\jetified-startup-runtime-1.1.1\res
+com.example.recipemanager.app-pngs-65 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\build\generated\res\pngs\debug
+com.example.recipemanager.app-resValues-66 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\build\generated\res\resValues\debug
+com.example.recipemanager.app-packageDebugResources-67 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.recipemanager.app-packageDebugResources-68 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.recipemanager.app-debug-69 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.recipemanager.app-debug-70 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\src\debug\res
+com.example.recipemanager.app-main-71 C:\Users\Marko\Desktop\New folder (4)\RecipeManager\app\src\main\res

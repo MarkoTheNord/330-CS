@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "Gordon Ramsay"
+    },
+    {
+      "id": "2",
+      "name": "Jamie Oliver"
+    },
+    {
+      "id": "3",
+      "name": "Marko Krivokapic"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "imageUrl": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "instructions": "Napravi carbonaru",
+      "title": "Carbonara"
+    }
+  ]
+}
